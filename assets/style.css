@@ -98,10 +98,11 @@ body {
 }
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: #fff;
-  background-color: #beb45a;
+  color: #000; /* Noir pour un contraste élevé */
+  background-color: #beb45a; /* Jaune foncé */
   border-radius: 0;
 }
+
 .nav-pills .nav-link {
   color: #000;
 }
